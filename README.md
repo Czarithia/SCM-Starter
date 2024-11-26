@@ -1,3 +1,7 @@
+# Overview
+This project is a blockchain-based application that demonstrates the functionality of a simple wallet. The application allows users to deposit, withdraw, and transfer funds using a Solidity smart contract, deployed via Hardhat, and interact with it through a React front-end.
+
+
 # Starter Next/Hardhat Project
 
 After cloning the github, you will want to do the following to get the code running on your computer.
@@ -10,3 +14,8 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+#Usage
+1. Connect your MetaMask wallet.
+2. View the wallet balance on the dashboard.
+3. Use the buttons to deposit, withdraw, or transfer funds.
