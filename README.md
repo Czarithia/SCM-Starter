@@ -19,3 +19,6 @@ Typically at http://localhost:3000/
 1. Connect your MetaMask wallet.
 2. View the wallet balance on the dashboard.
 3. Use the buttons to deposit, withdraw, or transfer funds.
+
+# Author
+ Prinz Jason Yanquiling
